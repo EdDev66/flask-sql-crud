@@ -1,0 +1,1 @@
+This repository contains a simple Flask web application that demonstrates CRUD (Create, Read, Update, Delete) operations using SQLAlchemy, a powerful Object-Relational Mapping (ORM) library for Python. This application allows you to manage a collection of books, including adding new books, viewing existing books, editing book details, and deleting books from the database.
